@@ -1,7 +1,7 @@
 # pylint: disable=C0103, C0111, R0914
 
 '''
-Main server file
+Main server file returning the news dictionary from inshorts file as JSON Object
 '''
 
 from flask import Flask, request, jsonify
