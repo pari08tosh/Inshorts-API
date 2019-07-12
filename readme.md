@@ -106,5 +106,19 @@ All dependencies are listed in *requirements.txt* file.
     ```bash 
     $ python app.py
     ```
+### Docker Install
+
+1. Build 
+
+    ```bash
+    $ docker build -t inshorts .
+    ```
+
+2. Run 
+    
+    ```bash
+    $ docker run -d -p 5000:5000 inshorts
+    ```
+ 
 
 
