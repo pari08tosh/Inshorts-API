@@ -22,7 +22,7 @@ Supports all categories as on the Inshorts Website. These include -
 
 ## Usage
 
-### 1. GET Request
+# 1. GET Request
 
 Make a get request of the form 
 ```
@@ -30,7 +30,7 @@ http://{site_address}/news?category={category_name}
 ```
 Example - http://www.exampleapi.com/news?category=science
 
-### 2. POST Request
+## 2. POST Request
 
 Make a post request with the category, provided as form data with name 'category' to the same route as above i.e '/news'.
 
