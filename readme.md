@@ -91,11 +91,11 @@ Each response object has the following keys -
     * date and time of publish
     * url (link to inshorts page)
 
-## Installation and Setup
+## Installation & Setup
 
 All dependencies are listed in *requirements.txt* file. 
 
-1. To install all dependencies run - 
+1. To install all dependencies run this - 
 
     ```bash
     $ sudo pip freeze -r requirements.txt
