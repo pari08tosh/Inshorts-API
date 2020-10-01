@@ -1,6 +1,6 @@
 # Inshorts API
 
-Inshorts is an app which provides news from different sources and presents them under 60 words. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format. 
+Inshorts is an amzing project and an app which provides news from different sources and presents them under 60 words. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format. 
 
 ## Categories
 
@@ -19,6 +19,8 @@ Supports all categories as on the Inshorts Website. These include -
 11. hatke // Unconventional
 12. science
 13. automobile
+14. holistic
+15. nature
 
 ## Usage
 
