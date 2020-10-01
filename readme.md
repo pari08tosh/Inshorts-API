@@ -91,7 +91,7 @@ Each response object has the following keys -
     * date and time of publish
     * url (link to inshorts page)
 
-## Installation and Setup
+## Installation and Setup quick guide
 
 All dependencies are listed in *requirements.txt* file. 
 
