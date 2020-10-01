@@ -20,7 +20,7 @@ Supports all categories as on the Inshorts Website. These include -
 12. science
 13. automobile
 
-## Usage
+## Importance
 
 ### 1. GET Request
 
