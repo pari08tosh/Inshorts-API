@@ -1,4 +1,4 @@
-# Inshorts API
+# Inshorts API - An Amazing Project
 
 Inshorts is an app which provides news from different sources and presents them under 60 words. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format. 
 
