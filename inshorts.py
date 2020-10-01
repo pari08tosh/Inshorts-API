@@ -7,7 +7,7 @@ Parse using beautiful soup and lxml to form the newsDictionary.
 
 import requests
 from bs4 import BeautifulSoup
-
+import os
 
 def getNews(category):
     newsDictionary = {
@@ -17,7 +17,7 @@ def getNews(category):
     }
 
     try:
-        htmlBody = requests.get('https://www.inshorts.com/en/read/' + category)
+        htmlBody = requests.get('https://www.inshorts.com/en/read/' + category, timeout=10)
     except requests.exceptions.RequestException as e:
         newsDictionary['success'] = False
         newsDictionary['errorMessage'] = str(e.message)
