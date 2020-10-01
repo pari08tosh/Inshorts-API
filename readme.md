@@ -69,7 +69,7 @@ The response JSON Object looks something like this -
 
 Each response object has the following keys -
 
-1. **success** - true indicates the api ran successfully. Upon error the success value is false and the object includes an errorMessage key with the error message.
+1. **Success** - true indicates the api ran successfully. Upon error the success value is false and the object includes an errorMessage key with the error message.
 
     ```JSON
     {
@@ -80,9 +80,9 @@ Each response object has the following keys -
     }
     ```
 
-2. **category** - the category you requested for.
+2. **Category** - the category you requested for.
 
-3. **data** - An array of objects each containing a news item for the category. Each object contains 
+3. **Data** - An array of objects each containing a news item for the category. Each object contains 
     * title 
     * content
     * author 
