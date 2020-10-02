@@ -1,24 +1,24 @@
 # Inshorts API
 
-Inshorts is an app which provides news from different sources and presents them under 60 words. This API Scraps content from the Inshorts website and provides it in easy to use JSON Format. 
+==>> Inshorts is an app which provides news from different sources and presents them under 60 words. This API Scraps content from the Inshorts website and provides it in easy to      use JSON Format. 
 
 ## Categories
 
-Supports all categories as on the Inshorts Website. These include - 
+==>> Supports all categories as on the Inshorts Website. These include - 
 
-1. '' // blank to get top news from all categories
-2. national //Indian National News
-3. business
-4. sports
-5. world
-6. politics
-7. technology
-8. startup
-9. entertainment
-10. miscellaneous
-11. hatke // Unconventional
-12. science
-13. automobile
+1. '' [ blank to get top news from all categories]
+2. national [Indian National News] 🏳‍
+3. business 👨‍💼
+4. sports 🏌️‍♂️
+5. world 🌍🌍
+6. politics 👨‍⚖️
+7. technology 👨‍💻 
+8. startup 🧒🧒
+9. entertainment🎶🎼
+10. miscellaneous 🛒🛒
+11. hatke [Unconventional]....
+12. science 🔬🔬
+13. automobile 📳📳
 
 ## Usage
 
