@@ -4,7 +4,7 @@ Inshorts is an app which provides news from different sources and presents them 
 
 ## Categories
 
-Supports all categories as on the Inshorts Website. These include - 
+Find below the categories are included in Website -
 
 1. '' // blank to get top news from all categories
 2. national //Indian National News
